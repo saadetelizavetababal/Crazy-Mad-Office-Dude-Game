@@ -58,3 +58,10 @@ CrazyMadOfficeDude/
 ├── ProjectSettings/
 ├── Packages/
 └── README.md
+```
+## 🤝 Contributing
+
+If you'd like to contribute to this project, please follow these steps:
+
+1.  Fork the repository.
+2.  Create a new branch for your feature or bug fix.
