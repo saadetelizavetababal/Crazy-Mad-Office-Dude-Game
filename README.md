@@ -40,12 +40,10 @@ Built with Unity, this game combines dynamic combat, hilarious animations, and a
 
 ## 🎬 Gameplay Preview
 
-[![Watch the video]
-(<p align="center">
+[![Watch the video](https://drive.google.com/file/d/1WQHAMEtOmpZ2dndNOZ0mumMZfP5ncA1k/view?usp=sharing)
+<p align="center">
   <img src="GamePlayScene4.png" width="250"/>
-</p>)
-(https://drive.google.com/file/d/1WQHAMEtOmpZ2dndNOZ0mumMZfP5ncA1k/view?usp=sharing)
----
+</p>
 
 ## 📂 Project Structure
 
