@@ -30,12 +30,13 @@ Built with Unity, this game combines dynamic combat, hilarious animations, and a
 
 ---
 
-## 📸 Screenshots & Videos
+## 📸 Screenshots
 
+## Screenshots
 <p align="center">
-  <img src="/GamePlayerScene1.png" width="280"/>
-  <img src="/GamePlayerScene2.png" width="280"/>
-  <img src="/GamePlayerScene3.png" width="280"/>
+  <img src="GamePlayScene.png" width="250"/>
+  <img src="GamePlayScene2.png" width="250"/>
+  <img src="GamePlayScene3.png" width="250"/>
 </p>
 
 ## 🎬 Gameplay Preview
